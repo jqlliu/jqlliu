@@ -15,49 +15,49 @@
   <path id="1">
 		<animate attributeName="d" from="m0,110 h0" to="m0,110 h1100" dur="1.5s" begin="0s" repeatCount="1" fill="freeze"/>
 	</path>
-   <text x="5" dy="5" fill="green" font-family= "'Courier New', Courier, monospace"> 
+   <text x="5" dy="-15" fill="green" font-family= "'Courier New', Courier, monospace"> 
 		<textPath href="#1">
       > Hello? Is anyone there?
     </textPath>
 	</text>
   
   <path id="2"><animate  dur="1.5s" begin="1.5s" attributeName="d" from="m0,110 h0" to="m0,110 h1100" repeatCount="1" fill="freeze"/></path>
-   <text x="5" dy="25"           fill="green" font-family= "'Courier New', Courier, monospace"> 
+   <text x="5" dy="5"           fill="green" font-family= "'Courier New', Courier, monospace"> 
 		<textPath href="#2">
       > My name is Jack Liu, and if you are reading this, I am dead.
     </textPath></text>
 
   <path id="3"><animate  dur="1.5s" begin="3.0s" attributeName="d" from="m0,110 h0" to="m0,110 h1100" repeatCount="1" fill="freeze"/></path>
-   <text x="5" dy="45"           fill="green" font-family= "'Courier New', Courier, monospace"> 
+   <text x="5" dy="25"           fill="green" font-family= "'Courier New', Courier, monospace"> 
 		<textPath href="#3">
       > Haha. No I'm not. 
     </textPath></text>
 
   
   <path id="4"><animate  dur="1.5s" begin="4.5s" attributeName="d" from="m0,110 h0" to="m0,110 h1100" repeatCount="1" fill="freeze"/></path>
-   <text x="5" dy="65"           fill="green" font-family= "'Courier New', Courier, monospace"> 
+   <text x="5" dy="45"           fill="green" font-family= "'Courier New', Courier, monospace"> 
 		<textPath href="#4">
       > Have a look around, enjoy your stay.
     </textPath></text>
   
     <path id="5"><animate  dur="1.5s" begin="6.0s" attributeName="d" from="m0,110 h0" to="m0,110 h1100" repeatCount="1" fill="freeze"/></path>
-   <text x="5" dy="85"           fill="green" font-family= "'Courier New', Courier, monospace"> 
+   <text x="5" dy="65"           fill="green" font-family= "'Courier New', Courier, monospace"> 
 		<textPath href="#5">
       > Your ip address is 192.167.2.5.
     </textPath></text>
       <path id="6"><animate  dur="1.5s" begin="7.5s" attributeName="d" from="m0,110 h0" to="m0,110 h1100" repeatCount="1" fill="freeze"/></path>
-   <text x="5" dy="105"           fill="green" font-family= "'Courier New', Courier, monospace"> 
+   <text x="5" dy="85"           fill="green" font-family= "'Courier New', Courier, monospace"> 
 		<textPath href="#6">
       > Yeah I wish... Anyways see you later.
     </textPath></text>
         <path id="7"><animate  dur="3s" begin="9.0s" attributeName="d" from="m0,110 h0" to="m0,110 h1100" repeatCount="1" fill="freeze"/></path>
-   <text x="5" dy="125"           fill="green" font-family= "'Courier New', Courier, monospace"> 
+   <text x="5" dy="105"           fill="green" font-family= "'Courier New', Courier, monospace"> 
 		<textPath href="#7">
       > ( END OF TRANSMISSION )
     </textPath></text>
   
         <path id="8"><animate  dur="3s" begin="10.5s" attributeName="d" from="m0,110 h0" to="m0,110 h1100" repeatCount="1" fill="freeze"/></path>
-   <text x="5" dy="145"           fill="green" font-family= "'Courier New', Courier, monospace"> 
+   <text x="5" dy="125"           fill="green" font-family= "'Courier New', Courier, monospace"> 
 		<textPath href="#8">
       01000101 01100111 01100111 00100000 01110100 01100001 01110010 01110100 01110011
     </textPath></text>
